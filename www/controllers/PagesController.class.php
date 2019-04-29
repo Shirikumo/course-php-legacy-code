@@ -1,4 +1,7 @@
 <?php
+
+use core\View;
+
 class PagesController
 {
     public function defaultAction()
